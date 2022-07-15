@@ -1,6 +1,6 @@
 
 
-# ZIM BOT V4
+# ELAINA BOT V4
 
 ## ``` This Script is for Everyone Don't sell it at high price ```
 
@@ -24,7 +24,7 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zim-bot/zimbot-v4)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ronen6999/zim4.git)
 
 ## BUILD PACKS
 
